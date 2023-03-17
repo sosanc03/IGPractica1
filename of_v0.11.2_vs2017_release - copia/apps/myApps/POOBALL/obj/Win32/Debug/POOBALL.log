@@ -1,0 +1,31 @@
+﻿  Ball.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\sofsa\OneDrive\Escritorio\Trabajos de Sofía\Segundo de carrera\Informática Gráfica\Practica 1\IGpractica1\of_v0.11.2_vs2017_release - copia\addons\ofxGui\src\ofxInputField.cpp(276,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\sofsa\OneDrive\Escritorio\Trabajos de Sofía\Segundo de carrera\Informática Gráfica\Practica 1\IGpractica1\of_v0.11.2_vs2017_release - copia\addons\ofxGui\src\ofxInputField.cpp(265,52): message : al compilar la función del miembro clase plantilla "void ofxInputField<float>::moveCursor(int)"
+C:\Users\sofsa\OneDrive\Escritorio\Trabajos de Sofía\Segundo de carrera\Informática Gráfica\Practica 1\IGpractica1\of_v0.11.2_vs2017_release - copia\addons\ofxGui\src\ofxInputField.cpp(368,15): message : Vea la referencia a la creación de una instancia de la función plantilla "void ofxInputField<float>::moveCursor(int)" que se está compilando
+C:\Users\sofsa\OneDrive\Escritorio\Trabajos de Sofía\Segundo de carrera\Informática Gráfica\Practica 1\IGpractica1\of_v0.11.2_vs2017_release - copia\addons\ofxGui\src\ofxInputField.cpp(805,36): message : Vea la referencia a la creación de una instancia de clase plantilla "ofxInputField<float>" que se está compilando
+LINK : fatal error LNK1104: no se puede abrir el archivo 'libboost_filesystem-vc141-mt-gd-x32-1_66.lib'
